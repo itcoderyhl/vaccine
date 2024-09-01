@@ -2,7 +2,7 @@
 
 ## 系统介绍
 
-使用java+springboot+mysql开发的疫苗预约管理系统，系统包含超级管理员，系统管理员、用户角色，功能如下：
+基于java+springboot+mysql开发的疫苗预约管理系统，系统包含超级管理员，系统管理员、用户角色，功能如下：
 超级管理员：管理员管理、用户管理、疫苗种类管理、号源管理、预约管理、疫情通告；个人信息修改、密码修改。
 管理员：和超管功能基本一致，少了管理员管理；
 用户：查看疫苗种类、查看号源信息、预约号源；查看我的预约；查看疫情通告；修改个人信息、修改密码；
@@ -47,3 +47,7 @@
 ![](https://github.com/itcoderyhl/vaccine/blob/main/images/12.png)
 ![](https://github.com/itcoderyhl/vaccine/blob/main/images/13.png)
 ![](https://github.com/itcoderyhl/vaccine/blob/main/images/14.png)
+![](https://github.com/itcoderyhl/vaccine/blob/main/images/15.png)
+![](https://github.com/itcoderyhl/vaccine/blob/main/images/16.png)
+![](https://github.com/itcoderyhl/vaccine/blob/main/images/17.png)
+![](https://github.com/itcoderyhl/vaccine/blob/main/images/18.png)
